@@ -6,8 +6,7 @@ import time, sys, os, winsound, ctypes
 from wechatauto.db import WeChatDB
 
 # === 配置（可改）===
-# KEYWORD = "下午7点"
-KEYWORD = "车找人"
+KEYWORD = "下午7点"
 INTERVAL = 3
 TARGET_GROUP_NAMES = [
     "香河东通勤拼车2群",
